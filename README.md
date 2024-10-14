@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# To-Do list
 
 This project is a simple react app to create a to do list.
 
